@@ -1,0 +1,11 @@
+.server__message {
+  text-align: right;
+}
+
+.client__message {
+  text-align: left;
+}
+
+.chat {
+  max-width: 300px;
+}
